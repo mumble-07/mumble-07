@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mumble-07
 - 👀 I’m interested in python coding, especially on the use of Raspberry pi ^_^ 
 - 🌱 I’m currently learning web development :D 
-- 💞️ I’m looking to collaborate on nothing yet, cause I'm still learning.
+- 💞️ I'm still learning.
 - 📫 You can reach me on my art account on IG: @thegulliblekid_mumble
 
 <!---
