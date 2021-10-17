@@ -1,3 +1,5 @@
+[//]: # "IMG SHIELDS FROM: https://github.com/alexandresanlim/Badges4-README.md-Profile"
+
 ### Hello there! 👋
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=mumble-07.visitor-badge)
@@ -8,15 +10,16 @@
 - 💬 To reach me on my business email, you can reach me here: andy_deguzman@eenovatics.com
 - 📫 My personal gmail: andreapauline.deguzman@gmail.com
 
-<p align="center">
+<h2><samp>📈 GITHUB STATISTICS</samp></h2>
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mumble-07&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mumble-07&langs_count=5&theme=tokyonight)]()
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mumble-07)]()
+
+<p align="center">
+<img width="49%" heigth="100%" style="display:inline" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mumble-07&langs_count=5&theme=tokyonight" />
+
+<img width="49%" heigth="100%" style="display:inline" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mumble-07" />
 
 </p>
-
-[//]: # "IMG SHIELDS FROM: https://github.com/alexandresanlim/Badges4-README.md-Profile"
 
 ### MOST USED LANGUAGES
 
@@ -49,6 +52,7 @@
 <p>
   <img src="https://img.shields.io/badge/Git%20-F05032?logo=git&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman%20-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
 <p>
 
 ### PROTOTYPING PLATFORMS
