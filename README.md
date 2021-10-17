@@ -6,9 +6,6 @@
 - 📫 My personal gmail: andreapauline.deguzman@gmail.com
 
 <p align="center">
-<img width="49%" heigth="100%" style="display:inline" align="center" src="https://github-readme-stats.vercel.app/api?username=mumble-07&show_icons=true&line_height=27&count_private=true&theme=dark&card_width=300&include_all_commits=true" />
-
-<img width="49%" heigth="100%" style="display:inline" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mumble-07&theme=dark&langs_count=10&layout=compact" />
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mumble-07&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mumble-07&langs_count=5&theme=tokyonight)]()
