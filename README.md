@@ -15,7 +15,7 @@
 
 [//]: # "IMG SHIELDS FROM: https://github.com/alexandresanlim/Badges4-README.md-Profile"
 
-### MY FAVORITE LANGUAGES
+### MOST USED LANGUAGES
 
 <p>
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black">
