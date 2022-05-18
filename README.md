@@ -29,7 +29,6 @@
 </p>
 
 <h2><samp>🎨 FRONTEND TECHNOLOGIES</samp></h2>
-###
 
 <p style="padding: 0px 20px">
   <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
