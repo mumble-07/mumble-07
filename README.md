@@ -3,6 +3,7 @@
 <h2><samp>Hello there! 👋</samp></h2>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=mumble-07.visitor-badge)
+![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{mumble-07}1212%2Fhit-counter)
 
 - 🎓 An Electrical Engineering graduate (Batch 2020) - [LinkedIn](https://www.linkedin.com/in/andrea-pauline/)
 - 🔭 Software engineering graduate at Avion School (Batch #9)
@@ -22,33 +23,34 @@
 <h2><samp>💪 MOST USED LANGUAGES</samp></h2>
 
 <p style="padding: 0px 20px">
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Ruby%20-C21325?logo=ruby&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/rails%20-%23FF2D20.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/rails%20-%23FF2D20.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 </p>
 
 <h2><samp>🎨 FRONTEND TECHNOLOGIES</samp></h2>
 
 <p style="padding: 0px 20px">
-  <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src = "https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/sass%20-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white">
-  <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
+  <img src = "https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/sass%20-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />
 <p>
 
 <h2><samp>💻 BACKEND TECHNOLOGIES</samp></h2>
 
 <p style="padding: 0px 20px">
   <img src="https://img.shields.io/badge/Ruby%20-C21325?logo=ruby&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/rails%20-%23FF2D20.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white"> 
+  <img src="https://img.shields.io/badge/rails%20-%23FF2D20.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <p>
 
 <h2><samp>🔧 DEVELOPMENT TOOLS</samp></h2>
 
 <p style="padding: 0px 20px">
   <img src="https://img.shields.io/badge/Git%20-F05032?logo=git&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman%20-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
 <p>
 
@@ -64,4 +66,5 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
 <p>
