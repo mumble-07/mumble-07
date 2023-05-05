@@ -5,8 +5,8 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=mumble-07.visitor-badge)
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{mumble-07}1212%2Fhit-counter)
 
-- 🎓 An Electrical Engineering graduate (Batch 2020) - [LinkedIn](https://www.linkedin.com/in/andrea-pauline/)
-- 🔭 Software engineering graduate at Avion School (Batch #9)
+- 🎓 An Electrical Engineering graduate - [LinkedIn](https://www.linkedin.com/in/andrea-pauline/)
+- 🔭 Software Engineering graduate at Avion School
 - 🌱 I’m a co-founder of startup company 🚀 [EEnovatics Inc.](http://eenovatics.com/), [Facebook](https://www.facebook.com/EEnovatics)
 - 💻 Creative Developer at [Wideout](https://www.wideout.com/)
 
