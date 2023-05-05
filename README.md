@@ -14,7 +14,7 @@
 
 <p align="center">
   <img width="60%" heigth="100%" style="display:inline" align="center" src="https://github-readme-stats.vercel.app/api/?username=mumble-07&count_private=true&theme=tokyonight&showicons=true" />
-  <img width="30%" heigth="60%" style="display:inline" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mumble-07&langs_count=5&theme=tokyonight" />
+  <img width="30%" heigth="60%" style="display:inline" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mumble-07&langs_count=7" />
 </p>
 
 <p align="center">
