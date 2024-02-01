@@ -8,7 +8,7 @@
 - 🎓 An Electrical Engineering graduate - [LinkedIn](https://www.linkedin.com/in/andrea-pauline/)
 - 🔭 Software Engineering graduate at Avion School
 - 🌱 I’m a co-founder of startup company 🚀 [EEnovatics Inc.](http://eenovatics.com/), [Facebook](https://www.facebook.com/EEnovatics)
-- 💻 Creative Developer at [Wideout](https://www.wideout.com/)
+- 💻 Sr. Creative Developer/Automation Developer at [Wideout](https://www.wideout.com/)
 
 <h2><samp>📈 GITHUB STATISTICS</samp></h2>
 
