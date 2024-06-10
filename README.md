@@ -5,9 +5,9 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=mumble-07.visitor-badge)
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{mumble-07}1212%2Fhit-counter)
 
-- 🎓 An Electrical Engineering graduate - [LinkedIn](https://www.linkedin.com/in/andrea-pauline/)
-- 🔭 Software Engineering graduate at Avion School
-- 🌱 I’m a co-founder of startup company 🚀 [EEnovatics Inc.](http://eenovatics.com/), [Facebook](https://www.facebook.com/EEnovatics)
+- 🎓 Electrical Engineering, UST 2020 - [LinkedIn](https://www.linkedin.com/in/andrea-pauline/)
+- 🔭 Software Engineering, Avion School 2021
+- 🌱 Co-founder of startup company 🚀 [EEnovatics Inc.](http://eenovatics.com/), [Facebook](https://www.facebook.com/EEnovatics)
 - 💻 Sr. Creative Developer/Automation Developer at [Wideout](https://www.wideout.com/)
 
 <h2><samp>📈 GITHUB STATISTICS</samp></h2>
