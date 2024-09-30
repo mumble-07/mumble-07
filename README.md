@@ -5,10 +5,10 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=mumble-07.visitor-badge)
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{mumble-07}1212%2Fhit-counter)
 
-- 🎓 Electrical Engineering, UST 2020 - [LinkedIn](https://www.linkedin.com/in/andrea-pauline/)
-- 🔭 Software Engineering, Avion School 2021
+- 🎓 BSEE, UST 2020 - [LinkedIn](https://www.linkedin.com/in/andrea-pauline/)
+- 🔭 Fullstack Software Engineering, Avion School 2021
 - 🌱 Co-founder of startup company 🚀 [EEnovatics Inc.](http://eenovatics.com/), [Facebook](https://www.facebook.com/EEnovatics)
-- 💻 Sr. Creative Developer/Automation Developer at [Wideout](https://www.wideout.com/)
+- 💻 Automation Developer III at [Wideout](https://www.wideout.com/)
 
 <h2><samp>📈 GITHUB STATISTICS</samp></h2>
 
@@ -45,6 +45,7 @@
   <img src="https://img.shields.io/badge/Ruby%20-C21325?logo=ruby&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/rails%20-%23FF2D20.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
 <p>
 
 <h2><samp>🔧 DEVELOPMENT TOOLS</samp></h2>
