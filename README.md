@@ -44,6 +44,7 @@
 <p style="padding: 0px 20px">
   <img src="https://img.shields.io/badge/Ruby%20-C21325?logo=ruby&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/rails%20-%23FF2D20.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
 <p>
