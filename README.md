@@ -8,7 +8,7 @@
 - 🎓 BSEE, UST 2020 - [LinkedIn](https://www.linkedin.com/in/andrea-pauline/)
 - 🔭 Fullstack Software Engineering, Avion School 2021
 - 🌱 Co-founder of startup company 🚀 [EEnovatics Inc.](http://eenovatics.com/), [Facebook](https://www.facebook.com/EEnovatics)
-- 💻 Automation Developer III at [Wideout](https://www.wideout.com/)
+- 💻 Full-Stack Automation Engineer III at [Wideout](https://www.wideout.com/)
 
 <h2><samp>📈 GITHUB STATISTICS</samp></h2>
 
